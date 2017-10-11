@@ -2,7 +2,7 @@
 
 #### This is my first webpage in Moringa, 11/10/2017
 
-#### By Charles Muchai and Brenda Okumu
+#### By Charles Muchai Ian and Brenda Okumu
 
 ## Description
 
